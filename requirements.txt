@@ -1,0 +1,6 @@
+numpy==2.4.0
+Pillow==12.1.0
+opencv-python==5.0.0.93
+mediapipe==1.1.1
+scikit-image==0.26.0
+streamlit==1.67.0
